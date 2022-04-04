@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ionets
-- 👀 I’m interested in everything, starting from smallest subatomic substances to the entire Universe. Every question, every small piece of knowledge, every enigma. I want
-- to know everything.
+- 👀 I’m interested in everything, starting from smallest subatomic substances to the entire Universe. Every question, every small piece of knowledge, every enigma is interesting for me. I want to know everything.
 - 🌱 I’m currently learning JavaScript, Python, Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
